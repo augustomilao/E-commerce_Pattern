@@ -79,8 +79,8 @@ class Usuario
 
 }
 
-$usuario = new Usuario;
+// $usuario = new Usuario;
 
-$user = $usuario->AtualizarAcesso($conn,'HOJE','1');
-var_dump($user);
+// $user = $usuario->AtualizarAcesso($conn,'HOJE','1');
+// var_dump($user);
 ?>
